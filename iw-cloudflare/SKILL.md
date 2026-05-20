@@ -1,9 +1,9 @@
 ---
-name: cloudflare-skills-installer
+name: iw-cloudflare
 description: Install, inspect, repair, update, and use the official Cloudflare Skills bundle for AI agents. Use when a user asks for ready-made or official Cloudflare/Wrangler/Workers/Pages skills, wants to query the latest Cloudflare skills without installing old copies, repair missing Cloudflare skills, update installed Cloudflare skills, log in to Cloudflare, or deploy a static website to Cloudflare Pages/Workers.
 ---
 
-# cloudflare-skills-installer
+# iw-cloudflare
 
 Manage Cloudflare's official Skills bundle and give basic Cloudflare deployment guidance. Prefer official, latest upstream sources over hand-written replacement skills.
 
